@@ -27,19 +27,19 @@ if(isset($_POST['sub'])){
             <table>
                 <tr>
                     <td>
-                        Name
+                        Nameeeee
                         <input type="text" name="text">
                     </td>
                 </tr>
                 <tr>
                     <td>
-                        Username
+                        Usernameeeee
                         <input type="text" name="user">
                     </td>
                 </tr>
                 <tr>
                     <td>
-                        password
+                        passwordeeee
                         <input type="password" name="pass">
                     </td>
                 </tr>
